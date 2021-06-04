@@ -15,7 +15,7 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  
  [Code 301 - Intermediate Software Development](https://abdelhadi-nofal.github.io/code-301-reading-notes/) 
  
- [Code 401 - Advanced Software Development]() 
+ [Code 401 - Advanced Software Development](https://abdelhadi-nofal.github.io/code-401-reading-notes/) 
  
  ***
  
