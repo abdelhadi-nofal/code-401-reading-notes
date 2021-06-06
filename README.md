@@ -9,13 +9,13 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  
  ***
  
- [Code 102 - Intro to Software Development](https://abdelhadi-nofal.github.io/reading-notes/)  
+ [Code 102 - Intro to Software Development](https://abdelhadi-nofal.github.io/reading-notes1/)  
  
  [Code 201 - Foundations of Software Development](https://abdelhadi-nofal.github.io/code-201/ )  
  
  [Code 301 - Intermediate Software Development](https://abdelhadi-nofal.github.io/code-301-reading-notes/) 
  
- [Code 401 - Advanced Software Development](https://abdelhadi-nofal.github.io/code-401-reading-notes/) 
+ [Code 401 - Advanced Software Development](https://abdelhadi-nofal.github.io/reading-notes/) 
  
  ***
  
