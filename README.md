@@ -27,7 +27,7 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
 
  | Table Of Content                    | Description                                                                  |
  | ---------------------               | -----------                                                                  |
- | class-01                            |[class-01](https://abdelhadi-nofal.github.io/code-401-reading-notes/class-01) |
+ | class-01                            |[class-01](https://abdelhadi-nofal.github.io/reading-notes/class-01) |
  | class-02                            |[class-02]() |
  | class-03                            |[class-03]() |
  | class-04                            |[class-04]() |
