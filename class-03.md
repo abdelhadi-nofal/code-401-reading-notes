@@ -161,3 +161,14 @@ Most likely, you’ll also want to use the second positional argument, mode. Thi
 
 with open('dog_breeds.txt', 'r') as reader:
     # Further file processing goes here
+    
+    
+ ## Python Exceptions
+ 
+ A Python program terminates as soon as it encounters an error. In Python, an error can be a syntax error or an exception. In this article, you will see what an exception is and how it differs from a syntax error. After that, you will learn about raising exceptions and making assertions. Then, you’ll finish with a demonstration of the try and except block.
+
+![](https://files.realpython.com/media/intro.8915db1758d8.png)
+
+
+ 
+ 
