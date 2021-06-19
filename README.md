@@ -37,7 +37,7 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  | class-08                            |[class-08](https://abdelhadi-nofal.github.io/reading-notes/class-08) |
  | class-09                            |[class-09](https://abdelhadi-nofal.github.io/reading-notes/class-09) |
  | class-10                            |[class-10](https://abdelhadi-nofal.github.io/reading-notes/class-10) |
- | class-11                            |[class-11]() |
+ | class-11                            |[class-11](https://abdelhadi-nofal.github.io/reading-notes/class-11) |
  | class-12                            |[class-12]() |
  | class-13                            |[class-13]() |
  | class-14a                           |[class-14a]() |
