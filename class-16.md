@@ -1,6 +1,6 @@
 # Data Science Primer : 
 
-### Chapter 1: Bird's Eye View : 
+###  Bird's Eye View : 
 
 * **Machine learning is not about algorithms.** 
 ...and individual algorithms are only one piece of the puzzle. The rest of the puzzle is how you apply them the right way.
