@@ -47,4 +47,3 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  | class-18                            |[class-18](https://abdelhadi-nofal.github.io/reading-notes/class-18) |
  | class-19                            |[class-19](https://abdelhadi-nofal.github.io/reading-notes/class-19) |
  | class-20                            |[class-20](https://abdelhadi-nofal.github.io/reading-notes/class-20) |
-
