@@ -48,12 +48,12 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  | class-19                            |[class-19](https://abdelhadi-nofal.github.io/reading-notes/class-19) |
  | class-20                            |[class-20](https://abdelhadi-nofal.github.io/reading-notes/class-20) |
  | class-27                            |[class-27](https://abdelhadi-nofal.github.io/reading-notes/class-27) |
- | class-12                            |[class-12](https://abdelhadi-nofal.github.io/reading-notes/class-12) |
- | class-13                            |[class-13](https://abdelhadi-nofal.github.io/reading-notes/class-13) |
- | class-14                            |[class-14](https://abdelhadi-nofal.github.io/reading-notes/class-14) |
- | class-15                            |[class-15](https://abdelhadi-nofal.github.io/reading-notes/class-15) |
- | class-16                            |[class-16](https://abdelhadi-nofal.github.io/reading-notes/class-16) |
- | class-17                            |[class-17](https://abdelhadi-nofal.github.io/reading-notes/class-17) |
- | class-18                            |[class-18](https://abdelhadi-nofal.github.io/reading-notes/class-18) |
- | class-19                            |[class-19](https://abdelhadi-nofal.github.io/reading-notes/class-19) |
- | class-20                            |[class-20](https://abdelhadi-nofal.github.io/reading-notes/class-20) |
+ | class-28                            |[class-28](https://abdelhadi-nofal.github.io/reading-notes/class-28) |
+ | class-29                            |[class-29](https://abdelhadi-nofal.github.io/reading-notes/class-29) |
+ | class-30                            |[class-30](https://abdelhadi-nofal.github.io/reading-notes/class-30) |
+ | class-31                            |[class-31](https://abdelhadi-nofal.github.io/reading-notes/class-31) |
+ | class-32                            |[class-32](https://abdelhadi-nofal.github.io/reading-notes/class-32) |
+ | class-33                            |[class-33](https://abdelhadi-nofal.github.io/reading-notes/class-33) |
+ | class-34                            |[class-34](https://abdelhadi-nofal.github.io/reading-notes/class-34) |
+ | class-35                            |[class-35](https://abdelhadi-nofal.github.io/reading-notes/class-35) |
+
