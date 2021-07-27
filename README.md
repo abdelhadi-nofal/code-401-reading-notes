@@ -56,4 +56,10 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  | class-33                            |[class-33](https://abdelhadi-nofal.github.io/reading-notes/class-33) |
  | class-34                            |[class-34](https://abdelhadi-nofal.github.io/reading-notes/class-34) |
  | class-35                            |[class-35](https://abdelhadi-nofal.github.io/reading-notes/class-35) |
+ | class-36                            |[class-36](https://abdelhadi-nofal.github.io/reading-notes/class-36) |
+ | class-37                            |[class-37](https://abdelhadi-nofal.github.io/reading-notes/class-37) |
+ | class-38                            |[class-38](https://abdelhadi-nofal.github.io/reading-notes/class-38) |
+ | class-39                            |[class-39](https://abdelhadi-nofal.github.io/reading-notes/class-39) |
+ | class-40                            |[class-40](https://abdelhadi-nofal.github.io/reading-notes/class-40) |
+
 
